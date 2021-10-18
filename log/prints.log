@@ -1,0 +1,30 @@
+13:05:04.820 [main] INFO  com.tea.qa.pages.welcomepage - Item selected
+13:05:08.546 [main] INFO  com.tea.qa.pages.welcomepage - Welcome clicked
+13:05:11.991 [main] INFO  com.tea.qa.pages.welcomepage - Menu clicked
+13:05:16.845 [main] INFO  com.tea.qa.pages.welcomepage - Check Out clicked
+13:05:23.361 [main] INFO  com.tea.qa.pages.welcomepage - Talk clicked
+13:05:28.177 [main] INFO  com.tea.qa.pages.welcomepage - Passion clicked
+13:05:42.358 [main] INFO  com.tea.qa.pages.welcomepage - Title is Our Passion
+13:05:42.445 [main] INFO  com.tea.qa.pages.welcomepage - Title is Check Out
+13:05:42.761 [main] INFO  com.tea.qa.pages.welcomepage - Title is Let's Talk Tea
+13:05:42.823 [main] INFO  com.tea.qa.pages.welcomepage - Title is Menu
+13:05:42.919 [main] INFO  com.tea.qa.pages.welcomepage - Title is Our Passion
+13:05:42.983 [main] INFO  com.tea.qa.pages.welcomepage - Title is Welcome
+13:06:04.378 [main] INFO  com.tea.qa.pages.welcomepage - Passion clicked
+13:06:04.538 [main] INFO  com.tea.qa.pages.passionpage - Backgound color is rgba(0, 0, 0, 0)
+13:06:04.787 [main] INFO  com.tea.qa.pages.passionpage - Backgound color is rgba(0, 0, 0, 0)
+13:09:38.558 [main] INFO  com.tea.qa.pages.welcomepage - Item selected
+13:09:42.143 [main] INFO  com.tea.qa.pages.welcomepage - Welcome clicked
+13:09:45.778 [main] INFO  com.tea.qa.pages.welcomepage - Menu clicked
+13:09:49.784 [main] INFO  com.tea.qa.pages.welcomepage - Check Out clicked
+13:09:56.439 [main] INFO  com.tea.qa.pages.welcomepage - Talk clicked
+13:10:00.479 [main] INFO  com.tea.qa.pages.welcomepage - Passion clicked
+13:10:14.382 [main] INFO  com.tea.qa.pages.welcomepage - Title is Our Passion
+13:10:14.469 [main] INFO  com.tea.qa.pages.welcomepage - Title is Check Out
+13:10:14.672 [main] INFO  com.tea.qa.pages.welcomepage - Title is Let's Talk Tea
+13:10:14.733 [main] INFO  com.tea.qa.pages.welcomepage - Title is Menu
+13:10:14.795 [main] INFO  com.tea.qa.pages.welcomepage - Title is Our Passion
+13:10:14.870 [main] INFO  com.tea.qa.pages.welcomepage - Title is Welcome
+13:10:33.412 [main] INFO  com.tea.qa.pages.welcomepage - Passion clicked
+13:10:33.583 [main] INFO  com.tea.qa.pages.passionpage - Backgound color is rgba(0, 0, 0, 0)
+13:10:33.856 [main] INFO  com.tea.qa.pages.passionpage - Backgound color is rgba(0, 0, 0, 0)

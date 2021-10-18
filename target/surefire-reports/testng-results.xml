@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-04T13:09:26 IST" name="Suite" finished-at="2021-09-04T13:10:39 IST" duration-ms="73022">
+    <groups>
+    </groups>
+    <test started-at="2021-09-04T13:09:26 IST" name="TestWelcome" finished-at="2021-09-04T13:10:39 IST" duration-ms="73022">
+      <class name="tea.testWelcomepage">
+        <test-method is-config="true" signature="getSetup()[pri:0, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:26 IST" name="getSetup" finished-at="2021-09-04T13:09:36 IST" duration-ms="9847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSetup -->
+        <test-method signature="testaddproduct(java.lang.String)[pri:1, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:37 IST" name="testaddproduct" data-provider="getTea" finished-at="2021-09-04T13:09:41 IST" duration-ms="3867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loose Tea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaddproduct -->
+        <test-method signature="testWelcome()[pri:2, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:41 IST" name="testWelcome" finished-at="2021-09-04T13:09:45 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWelcome -->
+        <test-method signature="testMenu()[pri:3, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:45 IST" name="testMenu" finished-at="2021-09-04T13:09:48 IST" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenu -->
+        <test-method signature="testCheckout()[pri:4, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:48 IST" name="testCheckout" finished-at="2021-09-04T13:09:52 IST" duration-ms="3999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckout -->
+        <test-method signature="testTalk()[pri:5, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:52 IST" name="testTalk" finished-at="2021-09-04T13:09:59 IST" duration-ms="6673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTalk -->
+        <test-method signature="testPassion()[pri:6, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:09:59 IST" name="testPassion" finished-at="2021-09-04T13:10:03 IST" duration-ms="4055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPassion -->
+        <test-method signature="testallLink()[pri:7, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:10:03 IST" name="testallLink" finished-at="2021-09-04T13:10:14 IST" duration-ms="11351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testallLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tea.testWelcomepage@2f67b837]" started-at="2021-09-04T13:10:14 IST" name="teardown" finished-at="2021-09-04T13:10:23 IST" duration-ms="8595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tea.testWelcomepage -->
+      <class name="tea.testPassionpage">
+        <test-method is-config="true" signature="getSetup()[pri:0, instance:tea.testPassionpage@5505ae1a]" started-at="2021-09-04T13:10:23 IST" name="getSetup" finished-at="2021-09-04T13:10:33 IST" duration-ms="9935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSetup -->
+        <test-method signature="testPageload()[pri:1, instance:tea.testPassionpage@5505ae1a]" started-at="2021-09-04T13:10:33 IST" name="testPageload" finished-at="2021-09-04T13:10:33 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageload -->
+        <test-method signature="testdoubleclick()[pri:2, instance:tea.testPassionpage@5505ae1a]" started-at="2021-09-04T13:10:33 IST" name="testdoubleclick" finished-at="2021-09-04T13:10:33 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdoubleclick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tea.testPassionpage@5505ae1a]" started-at="2021-09-04T13:10:33 IST" name="teardown" finished-at="2021-09-04T13:10:39 IST" duration-ms="5969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tea.testPassionpage -->
+    </test> <!-- TestWelcome -->
+  </suite> <!-- Suite -->
+</testng-results>
